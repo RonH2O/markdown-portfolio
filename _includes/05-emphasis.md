@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Knowledgable in the following:
+-*CICS*
+-*DB2*
+-*REXX*
+-*IBM Assembler*
+-*COBOL*
+-*Java*
+-*SAS*
